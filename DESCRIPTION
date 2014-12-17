@@ -1,0 +1,11 @@
+Package: aerosol
+Title: aerosol
+Version: 0.1
+Authors@R: "France-Nor Brute <France-Nor.Brute@univ-ag.fr> [aut, cre]"
+Description: Analyze aerosol data
+Depends: R (>= 3.1.1)
+License: What license is it under?
+LazyData: true
+Suggests: testthat
+Imports:
+    testthat
